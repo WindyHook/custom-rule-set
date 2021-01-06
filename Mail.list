@@ -1,0 +1,5 @@
+# Mail
+IN-PORT,"993"
+DEST-PORT,"993"
+PROCESS-NAME,/Applications/Spark.localized/Spark.app/Contents/MacOS/Spark
+URL-REGEX, \bimap(\.|-).*
