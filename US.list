@@ -1,10 +1,10 @@
 # LBRY
-.lbry.tv
-.spee.ch
-.vanwanet.com
-.lbry.com
-.lbryplayer.xyz
+DOMAIN-SUFFIX,lbry.tv
+DOMAIN-SUFFIX,spee.ch
+DOMAIN-SUFFIX,vanwanet.com
+DOMAIN-SUFFIX,lbry.com
+DOMAIN-SUFFIX,lbryplayer.xyz
 
 # exhentai
-.e-hentai.org
-.exhentai.org
+DOMAIN-SUFFIX,e-hentai.org
+DOMAIN-SUFFIX,exhentai.org
