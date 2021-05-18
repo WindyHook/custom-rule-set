@@ -1,0 +1,12 @@
+# clipber
+DOMAIN-SUFFIX,clipber.com
+
+# plex
+DOMAIN-SUFFIX,plex.tv
+DOMAIN-SUFFIX,plex.direct
+DOMAIN-SUFFIX,plex.com
+
+# adnmb
+DOMAIN-KEYWORD,adnmb
+DOMAIN-SUFFIX,acfunwiki.org
+USER-AGENT,Adao
