@@ -1,7 +1,8 @@
 # Mail
 IN-PORT,"993"
 DEST-PORT,"993"
-PROCESS-NAME,/Applications/Spark.localized/Spark.app/Contents/MacOS/Spark
+PROCESS-NAME,/Applications/Spark.app/Contents/MacOS/Spark
+PROCESS-NAME,com.readdle.smartemail-Mac
 URL-REGEX,\bimap(\.|-).*
 URL-REGEX,\bsmtp(\.|-).*
 DOMAIN,smtp.mail.me.com
