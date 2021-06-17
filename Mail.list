@@ -4,3 +4,4 @@ DEST-PORT,"993"
 PROCESS-NAME,/Applications/Spark.localized/Spark.app/Contents/MacOS/Spark
 URL-REGEX,\bimap(\.|-).*
 URL-REGEX,\bsmtp(\.|-).*
+DOMAIN,smtp.mail.me.com
